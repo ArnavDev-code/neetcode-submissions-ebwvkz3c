@@ -5,16 +5,16 @@ This repository contains my solutions to problems from the NeetCode roadmap, foc
 ## 👨‍💻 About Me
 
 - 🎓 BTech CSE (Cybersecurity)
-- 💻 Interested in Backend Development & Data Analysis
+- 💻 Interested in Data Science & Analysis
 - 📍 India
 - 🎯 Goal: Crack data based company interviews
 
 ## 📊 Progress
 
-- Total Problems Solved: 120+
-- Easy: 40
-- Medium: 65
-- Hard: 15
+- Total Problems Solved: 6+
+- Easy: 5
+- Medium: 1
+- Hard: 0
 
 ✔️ Currently Solving: Arrays & Hashing  
 ✔️ Next Target: Trees & Graphs
