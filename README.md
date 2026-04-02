@@ -1,4 +1,4 @@
-# 🚀 NeetCode DSA Solutions
+# 🚀 DSA Solutions
 
 This repository contains my solutions to problems from the NeetCode roadmap, focused on improving problem-solving skills and preparing for coding interviews.
 
