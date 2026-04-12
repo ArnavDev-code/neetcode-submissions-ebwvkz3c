@@ -11,9 +11,9 @@ This repository contains my solutions to problems from the NeetCode roadmap, foc
 
 ## 📊 Progress
 
-- Total Problems Solved: 12*
+- Total Problems Solved: 13*
 - Easy: 5
-- Medium: 7
+- Medium: 8
 - Hard: 0
 
 ✔️ Currently Solving: Arrays & Hashing  
