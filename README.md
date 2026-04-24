@@ -11,10 +11,10 @@ This repository contains my solutions to problems from the NeetCode roadmap, foc
 
 ## 📊 Progress
 
-- Total Problems Solved: 13*
+- Total Problems Solved: 16*
 - Easy: 5
-- Medium: 8
-- Hard: 0
+- Medium: 10
+- Hard: 1
 
 ✔️ Currently Solving: Arrays & Hashing  
 ✔️ Next Target: Trees & Graphs
